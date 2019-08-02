@@ -1,0 +1,23 @@
+body {
+    background-color: #323232;
+    margin: 0px;
+}
+
+#welcome_section {
+    background-color: #252525;
+    color: #FFFFFF;
+    font-family: verdana;
+    border-bottom: 7px outset;
+    border-color: #E20202;
+}
+
+#welcome_header {
+    font-size: 30px;
+    font-family: arial;
+}
+
+#welcome_message {
+    font-size: 22px;
+    font-family: arial;
+    color: #ffffff;
+}
